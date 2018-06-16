@@ -48,7 +48,7 @@
                                             <constraint firstAttribute="width" secondItem="Wk7-FU-gO8" secondAttribute="height" multiplier="1:1" id="JBf-OK-YIR"/>
                                         </constraints>
                                     </imageView>
-                                    <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5mp-vi-US7" customClass="RatingControl" customModule="FoodTracker" customModuleProvider="target">
+                                    <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="5mp-vi-US7" customClass="RatingControl" customModule="FoodTracker" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="432.5" width="200" height="110"/>
                                     </stackView>
                                 </subviews>
