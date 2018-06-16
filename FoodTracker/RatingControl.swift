@@ -26,7 +26,7 @@ class RatingControl: UIStackView {
     }
     
     required init(coder: NSCoder) {
-        super.init(coder: coder);ç
+        super.init(coder: coder);
     }
 
 }
